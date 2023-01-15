@@ -1,0 +1,1 @@
+/home/user/ascot_sw/env/isaac_sim/scripts/sample.py
